@@ -10,8 +10,8 @@ Example:
 
 ## Start
 
-```ruby
-  ruby bot.rb
+```bash
+  $ ruby bot.rb
 ```
 
 ## Development
