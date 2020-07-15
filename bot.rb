@@ -1,8 +1,9 @@
+require 'dotenv/load'
 require 'telegram/bot'
 require 'net/http'
 require 'json'
 require 'byebug'
-require 'dotenv/load'
+
 
 
 class Bot
